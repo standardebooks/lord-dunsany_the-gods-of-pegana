@@ -11,6 +11,11 @@ span[epub|type~="subtitle"]{
 	font-weight: normal;
 }
 
+.inscription p{
+	text-indent: 0;
+	text-align: center;
+}
+
 /* helpful during drafting */
 *[epub|type~="z3998:roman"],
 *[lang]:not(html),
