@@ -75,12 +75,76 @@
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/alhireth-hotep-the-prophet.xhtml" id="alhireth-hotep-the-prophet.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/concerning-sish.xhtml" id="concerning-sish.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/introduction.xhtml" id="introduction.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/kabok-the-prophet.xhtml" id="kabok-the-prophet.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/of-dorozhand.xhtml" id="of-dorozhand.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/of-how-imbaun-became-high-prophet.xhtml" id="of-how-imbaun-became-high-prophet.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/of-how-imbaun-met-zodrak.xhtml" id="of-how-imbaun-met-zodrak.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/of-how-imbaun-spake-of-death-to-the-king.xhtml" id="of-how-imbaun-spake-of-death-to-the-king.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/of-how-the-gods-whelmed-sidith.xhtml" id="of-how-the-gods-whelmed-sidith.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/of-ood.xhtml" id="of-ood.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/of-roon-the-god-of-going.xhtml" id="of-roon-the-god-of-going.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/of-skarl-the-drummer.xhtml" id="of-skarl-the-drummer.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/of-the-calamity-that-befel-yun-ilara.xhtml" id="of-the-calamity-that-befel-yun-ilara.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/of-the-game-of-the-gods.xhtml" id="of-the-game-of-the-gods.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/of-the-making-of-the-worlds.xhtml" id="of-the-making-of-the-worlds.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/of-the-thing-that-is-neither-god-nor-beast.xhtml" id="of-the-thing-that-is-neither-god-nor-beast.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/of-yoharneth-lahai.xhtml" id="of-yoharneth-lahai.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/pegana.xhtml" id="pegana.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/preface.xhtml" id="preface.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-bird-of-doom-and-the-end.xhtml" id="the-bird-of-doom-and-the-end.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-chaunt-of-the-gods.xhtml" id="the-chaunt-of-the-gods.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-chaunt-of-the-priests.xhtml" id="the-chaunt-of-the-priests.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-deeds-of-mung.xhtml" id="the-deeds-of-mung.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-eye-in-the-waste.xhtml" id="the-eye-in-the-waste.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-revolt-of-the-home-gods.xhtml" id="the-revolt-of-the-home-gods.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-river.xhtml" id="the-river.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-sayings-of-imbaun.xhtml" id="the-sayings-of-imbaun.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-sayings-of-kib.xhtml" id="the-sayings-of-kib.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-sayings-of-limpang-tung.xhtml" id="the-sayings-of-limpang-tung.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-sayings-of-slid.xhtml" id="the-sayings-of-slid.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/unlicense.xhtml" id="unlicense.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/yonath-the-prophet.xhtml" id="yonath-the-prophet.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/yug-the-prophet.xhtml" id="yug-the-prophet.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
+		<itemref idref="preface.xhtml"/>
+		<itemref idref="introduction.xhtml"/>
+		<itemref idref="of-skarl-the-drummer.xhtml"/>
+		<itemref idref="of-the-making-of-the-worlds.xhtml"/>
+		<itemref idref="of-the-game-of-the-gods.xhtml"/>
+		<itemref idref="the-chaunt-of-the-gods.xhtml"/>
+		<itemref idref="the-sayings-of-kib.xhtml"/>
+		<itemref idref="concerning-sish.xhtml"/>
+		<itemref idref="the-sayings-of-slid.xhtml"/>
+		<itemref idref="the-deeds-of-mung.xhtml"/>
+		<itemref idref="the-chaunt-of-the-priests.xhtml"/>
+		<itemref idref="the-sayings-of-limpang-tung.xhtml"/>
+		<itemref idref="of-yoharneth-lahai.xhtml"/>
+		<itemref idref="of-roon-the-god-of-going.xhtml"/>
+		<itemref idref="the-revolt-of-the-home-gods.xhtml"/>
+		<itemref idref="of-dorozhand.xhtml"/>
+		<itemref idref="the-eye-in-the-waste.xhtml"/>
+		<itemref idref="of-the-thing-that-is-neither-god-nor-beast.xhtml"/>
+		<itemref idref="yonath-the-prophet.xhtml"/>
+		<itemref idref="yug-the-prophet.xhtml"/>
+		<itemref idref="alhireth-hotep-the-prophet.xhtml"/>
+		<itemref idref="kabok-the-prophet.xhtml"/>
+		<itemref idref="of-the-calamity-that-befel-yun-ilara.xhtml"/>
+		<itemref idref="of-how-the-gods-whelmed-sidith.xhtml"/>
+		<itemref idref="of-how-imbaun-became-high-prophet.xhtml"/>
+		<itemref idref="of-how-imbaun-met-zodrak.xhtml"/>
+		<itemref idref="pegana.xhtml"/>
+		<itemref idref="the-sayings-of-imbaun.xhtml"/>
+		<itemref idref="of-how-imbaun-spake-of-death-to-the-king.xhtml"/>
+		<itemref idref="of-ood.xhtml"/>
+		<itemref idref="the-river.xhtml"/>
+		<itemref idref="the-bird-of-doom-and-the-end.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="unlicense.xhtml"/>
 	</spine>
