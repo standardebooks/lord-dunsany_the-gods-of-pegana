@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/lord-dunsany/the-gods-of-pegana</dc:identifier>
 		<dc:date>2015-11-02T00:10:27Z</dc:date>
-		<meta property="dcterms:modified">2015-11-17T06:10:59Z</meta>
+		<meta property="dcterms:modified">2015-11-19T22:18:10Z</meta>
 		<dc:rights>Public domain; see the Unlicense included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -41,6 +41,8 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Edward_Plunkett,_18th_Baron_of_Dunsany</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80005394.html</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">aui</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">Joseph Stella</dc:contributor>
 		<meta property="file-as" refines="#artist">Stella, Joseph</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Joseph_Stella</meta>
