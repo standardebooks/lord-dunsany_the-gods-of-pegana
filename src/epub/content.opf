@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/lord-dunsany/the-gods-of-pegana</dc:identifier>
 		<dc:date>2015-11-02T00:10:27Z</dc:date>
-		<meta property="dcterms:modified">2015-12-10T22:48:25Z</meta>
+		<meta property="dcterms:modified">2016-01-27T19:41:34Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -19,7 +19,7 @@
 		<dc:title id="title">The Gods of Pegāna</dc:title>
 		<meta property="file-as" refines="#title">Gods of Pegāna, The</meta>
 		<dc:subject id="subject-1">Fantasy fiction, English</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">http://www.gutenberg.org/ebooks/8395</meta>
+		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/8395</meta>
 		<meta property="se:subject">Fantasy</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A mysterious god creates a cosmic pantheon to rule over its worlds and time.</dc:description>
@@ -30,7 +30,7 @@
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
-		<dc:source>http://www.gutenberg.org/ebooks/8395</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/8395</dc:source>
 		<dc:source>http://catalog.hathitrust.org/Record/001692458</dc:source>
 		<meta property="se:word-count">15417</meta>
 		<meta property="se:reading-ease.flesch">72.09</meta>
