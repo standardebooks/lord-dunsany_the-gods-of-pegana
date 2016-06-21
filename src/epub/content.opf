@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/lord-dunsany/the-gods-of-pegana</dc:identifier>
 		<dc:date>2015-11-02T00:10:27Z</dc:date>
-		<meta property="dcterms:modified">2016-05-19T21:59:31Z</meta>
-		<meta property="se:revision-number">13</meta>
+		<meta property="dcterms:modified">2016-06-21T02:26:54Z</meta>
+		<meta property="se:revision-number">14</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -33,7 +33,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/8395</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/001692458</dc:source>
-		<meta property="se:word-count">15417</meta>
+		<meta property="se:word-count">15408</meta>
 		<meta property="se:reading-ease.flesch">72.09</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Gods_of_Peg%C4%81na</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/lord-dunsany_the-gods-of-pegana</meta>
