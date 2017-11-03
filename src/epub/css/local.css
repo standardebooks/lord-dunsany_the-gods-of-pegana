@@ -15,3 +15,11 @@ span[epub|type~="subtitle"]{
 	text-indent: 0;
 	text-align: center;
 }
+
+[epub|type~="dedication"] p{
+	margin: auto;
+	margin-top: 3em;
+	text-align: center;
+	text-indent: 0;
+	max-width: 75%;
+}
