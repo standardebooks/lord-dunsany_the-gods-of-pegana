@@ -26,20 +26,19 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Gods of Pegāna</dc:title>
 		<meta property="file-as" refines="#title">Gods of Pegāna, The</meta>
 		<dc:subject id="subject-1">Fantasy fiction, English</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/8395</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh85047125</meta>
 		<meta property="se:subject">Fantasy</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A mysterious god creates a cosmic pantheon to rule over its worlds and time.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Gods of Pegāna&lt;/i&gt;, Lord Dunsany’s first published book, is a strange and wonderous creation. In it he creates the pantheon of gods who rule over the titular world. The prose alternates between being biblical, high-minded, and childish, with the gods frustrating their human subjects through their single-minded and often completely inscrutible actions. When they’re not busy being mysterious, they’re busy taking revenge on each other.&lt;/p&gt;
 			&lt;p&gt;It’s possible these short tales were written to convey lessons about life, death, and the nature of belief, though the rhythmic simplicity of the prose and the strange and often petty nature of the gods leaves that up to debate. Regardless, &lt;i&gt;The Gods of Pegāna&lt;/i&gt; is a fascinating and influential read.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/8395</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/001692458</dc:source>
