@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="introduction.xhtml">
+		<ignore>
+			<code>s-036</code>
+			<reason>The introduction is part of the fictional body matter.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
