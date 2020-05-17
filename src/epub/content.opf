@@ -36,7 +36,7 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A mysterious god creates a cosmic pantheon to rule over its worlds and time.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;The Gods of Pegāna&lt;/i&gt;, Lord Dunsany’s first published book, is a strange and wonderous creation. In it he creates the pantheon of gods who rule over the titular world. The prose alternates between being biblical, high-minded, and childish, with the gods frustrating their human subjects through their single-minded and often completely inscrutible actions. When they’re not busy being mysterious, they’re busy taking revenge on each other.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Gods of Pegāna&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/lord-dunsany"&gt;Lord Dunsany’s&lt;/a&gt; first published book, is a strange and wondrous creation. In it he creates the pantheon of gods who rule over the titular world. The prose alternates between being biblical, high-minded, and childish, with the gods frustrating their human subjects through their single-minded and often completely inscrutable actions. When they’re not busy being mysterious, they’re busy taking revenge on each other.&lt;/p&gt;
 			&lt;p&gt;It’s possible these short tales were written to convey lessons about life, death, and the nature of belief, though the rhythmic simplicity of the prose and the strange and often petty nature of the gods leaves that up to debate. Regardless, &lt;i&gt;The Gods of Pegāna&lt;/i&gt; is a fascinating and influential read.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
