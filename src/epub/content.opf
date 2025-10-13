@@ -51,7 +51,7 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Edward_Plunkett,_18th_Baron_of_Dunsany</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80005394</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">aui</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">win</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">Joseph Stella</dc:contributor>
 		<meta property="file-as" refines="#artist">Stella, Joseph</meta>
