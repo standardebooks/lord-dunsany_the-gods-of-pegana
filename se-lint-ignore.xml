@@ -6,4 +6,10 @@
 			<reason>The introduction is part of the fictional body matter.</reason>
 		</ignore>
 	</file>
+	<file path="of-dorozhand.xhtml">
+		<ignore code="t-005">
+			<line>28</line>
+			<reason>Matching text is not a newspaper.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
