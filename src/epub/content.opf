@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/lord-dunsany/the-gods-of-pegana</dc:identifier>
 		<dc:date>2015-11-02T00:10:27Z</dc:date>
@@ -34,11 +34,11 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85047125</meta>
 		<meta property="schema:genre">Fantasy</meta>
-		<dc:description id="description">A mysterious god creates a cosmic pantheon to rule over its worlds and time.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A mysterious god creates a cosmic pantheon to rule over its worlds and time.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Gods of Pegāna&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/lord-dunsany"&gt;Lord Dunsany’s&lt;/a&gt; first published book, is a strange and wondrous creation. In it he creates the pantheon of gods who rule over the titular world. The prose alternates between being biblical, high-minded, and childish, with the gods frustrating their human subjects through their single-minded and often completely inscrutable actions. When they’re not busy being mysterious, they’re busy taking revenge on each other.&lt;/p&gt;
 			&lt;p&gt;It’s possible these short tales were written to convey lessons about life, death, and the nature of belief, though the rhythmic simplicity of the prose and the strange and often petty nature of the gods leaves that up to debate. Regardless, &lt;i&gt;The Gods of Pegāna&lt;/i&gt; is a fascinating and influential read.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/8395</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/001692458</dc:source>
