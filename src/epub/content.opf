@@ -51,7 +51,7 @@
 		<dc:creator id="author">Lord Dunsany</dc:creator>
 		<meta property="file-as" refines="#author">Dunsany</meta>
 		<meta property="schema:alternateName" refines="#author">Edward John Moreton Drax Plunkett</meta>
-		<link href="https://en.wikipedia.org/wiki/Edward_Plunkett,_18th_Baron_of_Dunsany" refines="#author" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/Lord_Dunsany" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n80005394.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">dto</meta>
